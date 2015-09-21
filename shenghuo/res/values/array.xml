@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Nav Drawer Menu Items -->
-    <string-array name="home_option_name">
-        <item >天气查询</item>
-        <item >地图定位</item>
-        <item >二维码扫描</item>
-        <item >百度翻译</item>
-        <item >小手电筒</item>
-        <item >IP地址查询</item>
-        <item >手机号信息查询</item>
-        <item >日历</item>
-        <item >娱乐广告</item>
-        
-    </string-array>
-    
-    <!-- Nav Drawer List Item Icons -->
-    <!-- Keep them in order as the titles are in -->
-    <array name="home_option_icon">
-        <item>@drawable/index_weather_selector</item>
-        <item>@drawable/index_location_selector</item>
-        <item>@drawable/index_food_selector</item>
-        <item>@drawable/index_people_selector</item>        <item>@drawable/index_apple_selector</item>        <item>@drawable/index_ip_selector</item>        <item>@drawable/index_phone_selector</item>        <item>@drawable/index_caipiao_selector</item>        <item>@drawable/index_zhaopin_selector</item>
-    </array>
-</resources>
